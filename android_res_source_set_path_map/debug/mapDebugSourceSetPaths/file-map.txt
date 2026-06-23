@@ -1,0 +1,7 @@
+com.mobile.listbuah-pngs-0 C:\Users\ASUS\Downloads\Mobile24SI3-main\Mobile24SI3-main\listbuah\build\generated\res\pngs\debug
+com.mobile.listbuah-updated_navigation_xml-1 C:\Users\ASUS\Downloads\Mobile24SI3-main\Mobile24SI3-main\listbuah\build\generated\updated_navigation_xml\debug
+com.mobile.listbuah-packageDebugResources-2 C:\Users\ASUS\Downloads\Mobile24SI3-main\Mobile24SI3-main\listbuah\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mobile.listbuah-packageDebugResources-3 C:\Users\ASUS\Downloads\Mobile24SI3-main\Mobile24SI3-main\listbuah\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mobile.listbuah-debug-4 C:\Users\ASUS\Downloads\Mobile24SI3-main\Mobile24SI3-main\listbuah\build\intermediates\merged_res\debug\mergeDebugResources
+com.mobile.listbuah-debug-5 C:\Users\ASUS\Downloads\Mobile24SI3-main\Mobile24SI3-main\listbuah\src\debug\res
+com.mobile.listbuah-main-6 C:\Users\ASUS\Downloads\Mobile24SI3-main\Mobile24SI3-main\listbuah\src\main\res
